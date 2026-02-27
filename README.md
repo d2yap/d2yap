@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Pixel animation of a duck moving it's head.](/assets/github-banner.gif)
 <!--
 **d2yap/d2yap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
